@@ -1,0 +1,1 @@
+﻿DROP DATABASE `test_DB`;
